@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "Cuánto es eso?",                          // For the love meter
             startText: "Asíííííí!❤️",                                   // Text before the percentage
-            nextBtn: "Paso "                                         // Text for the next button
+            nextBtn: "Siguiente ❤️💕 "                                         // Text for the next button
         },
         third: {
             text: "Puedes ser mi valentín este 14 de febrero de 2025? 🌹", // The big question!
@@ -75,14 +75,14 @@ const CONFIG = {
 
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
-    music: {
-        enabled: true,                     // Music feature is enabled
-        autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://open.spotify.com/intl-es/track/1boXOL0ua7N2iCOUVI1p9F?si=1d97db830a204e1c", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
-    }
+    // music: {
+    //     enabled: true,                     // Music feature is enabled
+    //     autoplay: true,                    // Try to autoplay (note: some browsers may block this)
+    //     musicUrl: "https://open.spotify.com/intl-es/track/1boXOL0ua7N2iCOUVI1p9F?si=1d97db830a204e1c", // Music streaming URL
+    //     startText: "🎵 Play Music",        // Button text to start music
+    //     stopText: "🔇 Stop Music",         // Button text to stop music
+    //     volume: 0.5                        // Volume level (0.0 to 1.0)
+    // }
 };
 
 // Don't modify anything below this line unless you know what you're doing
